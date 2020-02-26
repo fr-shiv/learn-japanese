@@ -1,0 +1,23 @@
+# Learn Japanese(日本語)
+## Shiv's Guide to learn Japanese
+
+
+
+
+<details>
+<summary>Grammar Guide</summary>
+
++ Type of Verb
+    + U
+    + Ru
++ [Te Form](../grammar/te-form.md)
+
+</details>
+
+<details>
+<summary>Vocabulary Guide</summary>
+
++ [Adjective](../vocab/adjective.md)
++ [Noun](../vocab/noun.md)
++ [Verb](../vocab/verb.md)
+</details>
